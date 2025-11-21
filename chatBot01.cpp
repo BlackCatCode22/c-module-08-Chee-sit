@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string>
 #include "include/curl/curl-8.11.0_2-win64-mingw/include/curl/curl.h"
-#include <C:/Users/Dmyan/Desktop/chatbot01/chatBot01/chatBot01/include/nlohmann/json.hpp>
+#include "json.hp"
 
 
 using json = nlohmann::json;
